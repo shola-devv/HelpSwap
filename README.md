@@ -9,7 +9,7 @@ This DEX implements the constant product formula `x * y = k` to facilitate permi
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔄 **ETH ↔ TOKEN Swaps** — Swap in either direction with slippage protection
 - 💧 **Add & Remove Liquidity** — Deposit tokens to earn LP tokens; burn them to withdraw
@@ -104,7 +104,7 @@ ABIs are found inside `helpswap/out/<ContractName>.sol/<ContractName>.json` unde
 
 ---
 
-## 🌐 Live Deployment (Sepolia Testnet)
+##  Live Deployment (Sepolia Testnet)
 
 The contracts are deployed and verified on the Ethereum Sepolia testnet:
 
@@ -125,7 +125,7 @@ The contracts are deployed and verified on the Ethereum Sepolia testnet:
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -145,7 +145,7 @@ MIT
 
 ive written a medium article on the build process, find it here :  
 
-## 🙋 Author
+## 👨 Author
  
 shola Emmanuel Fayinminu  
 Feel free to reach out or open an issue if you have questions.
